@@ -27,16 +27,7 @@ function loginValidate(loginForm)
 		return false;
 	} 
 }
-
 </script>
-<style>
-	#loginDiv{
-        border: 2px solid #BDBDBD;
-        margin: 40px;
-        width: 680px;
-        height: 370px;
-    }
-</style>
 </head>
 <body>
 <div name="loginDiv" style="margin: 100px;">
@@ -78,7 +69,6 @@ function loginValidate(loginForm)
 					회원가입
 				</button>
 			</td>
-			
 		</tr>
 	</table>
 	</form>

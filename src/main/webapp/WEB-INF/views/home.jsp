@@ -12,5 +12,6 @@
 </h1>
 
 <li><a href="./member/login.do" target="_blank">로그인 페이지</a></li>
+<li><a href="./member/register.do" target="_blank">회원가입 페이지</a></li>
 </body>
 </html>
