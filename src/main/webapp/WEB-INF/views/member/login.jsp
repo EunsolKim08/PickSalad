@@ -12,7 +12,6 @@
 <script>
 
 function loginValidate(loginForm)
-
 {
 	if (loginForm.id.value == "")
 	{
