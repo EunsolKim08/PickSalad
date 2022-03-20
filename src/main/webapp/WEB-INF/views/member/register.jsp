@@ -26,7 +26,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;">
+				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;" id="idPrint">
 					아이디 형식은 4~12자 이내, 영문/숫자 혼합합니다.
 				</td>
 			</tr>
@@ -48,7 +48,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;">
+				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;" id="passPrint1">
 					비밀번호 형식은 4~12자 이내, 영문/숫자/특수문자 혼합합니다.
 				</td>
 			</tr>
@@ -60,7 +60,7 @@
 				</td>
 			</tr>
 			<tr>
-				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;">
+				<td style="font-size:12px; font-weight:bold; color:red; text-align:center;" id="passPrint1">
 					비밀번호가 일치하지 않습니다.
 			</tr>
 			
